@@ -13,10 +13,10 @@ li {
 }
 
 body {
-  background: #f1f1f1;
+  background: #383838;
   font-size: 16px;
   line-height: 22px;
-  color: #404040;
+  color: #ffffff;
   font-family: "Lucida Grande", Verdana, sans-serif;
 }
 
@@ -26,8 +26,8 @@ ul {
 }
 
 .btn {
-  background: lightseagreen;
-  color: #fff;
+  background: rgb(44, 190, 0);
+  color: rgb(255, 255, 255);
   padding: 3px 10px;
   margin: 0 0 0 3px;
   border: none;
@@ -39,15 +39,15 @@ ul {
 }
 
 .btn:hover {
-  background: lightslategrey;
+  background: rgb(9, 110, 0);
 }
 
 .btn-red {
-  background: red;
+  background: rgb(153, 0, 0);
 }
 
 .btn-red:hover {
-  background: darkred;
+  background: rgb(110, 0, 0);
 }
 
 .app-title {
